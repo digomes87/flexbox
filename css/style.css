@@ -28,7 +28,9 @@
 .container{
   display: flex;
   border: 10px solid mistyrose;
-  align-items: center;
+  align-items: stretch;
+  height: 100vh;
+  
 }
 
 
